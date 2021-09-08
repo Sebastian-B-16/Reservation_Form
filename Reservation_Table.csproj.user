@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResForms\Res9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundButtons.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
